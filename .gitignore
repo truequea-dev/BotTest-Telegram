@@ -1,0 +1,4 @@
+# Ignorar directorios de Node.js
+node_modules/
+
+//.env
